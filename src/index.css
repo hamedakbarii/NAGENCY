@@ -1,0 +1,10 @@
+html {
+  font-family: "IRANSans";
+  direction: rtl;
+}
+
+@font-face {
+  font-family: IRANSans;
+  src: url(./fonts/IRANSans/IRANSans.ttf);
+  font-weight: 600;
+}
